@@ -1,0 +1,10 @@
+button{
+    background-color:rgb(54, 83, 136);
+    border: none;
+    padding: 1rem;
+    margin:2rem;
+    font-size: 2rem;
+    color: white;
+}:active{
+    border: none;
+}
